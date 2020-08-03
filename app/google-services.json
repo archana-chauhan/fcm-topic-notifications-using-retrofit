@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904003755184",
+    "firebase_url": "https://fcmnotification-a8174.firebaseio.com",
+    "project_id": "fcmnotification-a8174",
+    "storage_bucket": "fcmnotification-a8174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904003755184:android:1452e9baa9ff3827d0af75",
+        "android_client_info": {
+          "package_name": "com.archana.fcmnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904003755184-im4ummec7don2j198004r59j9pcj3ea6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByn-lBLvA_U-R_qZMWI9Dsbl7YOaABMUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904003755184-im4ummec7don2j198004r59j9pcj3ea6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
